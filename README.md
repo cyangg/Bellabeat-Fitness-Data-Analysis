@@ -1,4 +1,4 @@
-# CASE STUDY: Bellabeat Fitness Data Analysis 
+# GOOGLE DATA ANALYTICS CAPSTONE: Bellabeat Fitness Data Analysis 
 
 **Author: Henry Yang**
 
