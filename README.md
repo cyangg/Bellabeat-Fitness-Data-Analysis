@@ -59,7 +59,7 @@ The dataset has 18 CSV. The data also follow a ROCCC approach:
 
 - Both companies develop products focused on providing women with their health, habit and fitness data and encouraging them to understand their current habits and make healthy decisions. These common trends surrounding health and fitness can very well abe pplied to Bellabeat customers.
 
-### 3. How could these trends help influence Bellabeat marketing strategy?
+#### 3. How could these trends help influence Bellabeat marketing strategy?
 
 - Bellabeat marketing team can encourage users by educating and equipping them with knowledge about fitness benefits, suggest different types of exercise (ie. simple 10 minutes exercise on weekday and a more intense exercise on weekends) and calories intake and burnt rate information on the Bellabeat app.
 
