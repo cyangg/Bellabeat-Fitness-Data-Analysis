@@ -42,7 +42,16 @@ The dataset has 18 CSV. The data also follow a ROCCC approach:
 - Sample size of 30 female FitBit users is not representative of the entire female population.
 - As data is collected in a survey, hence unable to ascertain the integrity or accuracy of data.
 
-
+## 3. Process
+I used Python to prepare and process the data.
+### 3.1 Preparing the Environment
+``` 
+# import packages and alias
+import numpy as np # data arrays
+import pandas as pd # data structure and data analysis
+import matplotlib as plt # data visualization
+import datetime as dt # date time
+```
 
 
 
