@@ -36,6 +36,11 @@ The dataset has 18 CSV. The data also follow a ROCCC approach:
 - Current: Data is from March 2016 to May 2016. Data is not current so the users habit may be different now. 
 - Cited: Unknown. 
 
+⛔ The dataset has limitations:
+
+- Data collected from year 2016. Users' daily activity, fitness and sleeping habits, diet and food consumption may have changed since then, hence data may not be timely or relevant.
+- Sample size of 30 female FitBit users is not representative of the entire female population.
+- As data is collected in a survey, hence unable to ascertain the integrity or accuracy of data.
 
 
 
