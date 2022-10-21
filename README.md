@@ -52,7 +52,11 @@ import pandas as pd # data structure and data analysis
 import matplotlib as plt # data visualization
 import datetime as dt # date time
 ```
-
+### 3.2 Importing data set
+```
+# read_csv function to read the required CSV file
+daily_activity = pd.read_csv(".../dailyActivity_merged.csv")
+```
 
 
 
