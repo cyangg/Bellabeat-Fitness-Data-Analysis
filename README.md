@@ -42,7 +42,7 @@ The dataset has 18 CSV. The data also follow a ROCCC approach:
 - Sample size of 30 female FitBit users is not representative of the entire female population.
 - As data is collected in a survey, hence unable to ascertain the integrity or accuracy of data.
 
-## 3. Setp 3 to 5 would be shown in Jupyer NoteBook[https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis/blob/main/Bellabeat.ipynb] for better visualization
+## 3. Setp 3 to 5 would be shown in [Jupyer NoteBook](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis/blob/main/Bellabeat.ipynb) for better visualization
 
 
 
