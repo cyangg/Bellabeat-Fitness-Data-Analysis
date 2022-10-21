@@ -1,4 +1,4 @@
-# GOOGLE DATA ANALYTICS CAPSTONE: Bellabeat Fitness Data Analysis 
+# Google data analytics capstone: Bellabeat Fitness Data Analysis 
 
 **Author: Henry Yang**
 
